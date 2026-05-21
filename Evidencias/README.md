@@ -4,10 +4,10 @@ Abaixo estão as capturas de tela que comprovam a execução e o sucesso dos tes
 
 ### CT - 01 Cadastrar um usuário com sucesso ''Caminho feliz"
     {
-  "nome": "Wendreo as 2",
-  "email": "testeQA@qa.com.br",
-  "password": "teste123",
-  "administrador": "true"
+    "nome": "Wendreo as 2",
+    "email": "testeQA@qa.com.br",
+    "password": "teste123",
+    "administrador": "true"
     }
 ### CT - 02 Realizar login com o usuario valido "Alternativo"
     {
