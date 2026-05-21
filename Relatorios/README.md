@@ -1,5 +1,4 @@
 ## 📊 Relatório de Testes (Newman)
-. 
 
 ### 📈 Painel Geral do Relatório
 ![Dashboard do Newman](evidencias/dashboard-newman.png)
