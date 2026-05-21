@@ -3,7 +3,7 @@
 Este repositório contém a resolução do desafio técnico de testes funcionais, utilizando a API pública **ServeRest**.
 
 Como: gestor
-Quero: utilizar uma api pública,
+Quero: utilizar uma api pública
 Para: que eu possa realizar testes de "Cadastro de usuarios".
 
 
