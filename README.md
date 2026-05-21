@@ -36,4 +36,4 @@ CT - 03 Não permite cadastrar usuário com email ja cadastrado "Exceção"
 1. Baixe o arquivo `(https://wendreoas-4796967.postman.co/workspace/Wendreo-Araujo's-Workspace~c65b628e-ff93-4659-86b6-7bca87d91cff/collection/54307068-459e8e45-9bba-4189-90a9-956a20c2f6df?action=share&source=copy-link&creator=54307068)` deste repositório.
 2. Abra o **Postman** e clique em **Import**.
 3. Selecione o arquivo baixado.
-4. Clique com o botão direito na coleção importada.
+4. Clique no o botão importar.
